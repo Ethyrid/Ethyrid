@@ -19,7 +19,7 @@
 
 I design interconnected game systems and levels in **Unity (C#)** and test edge cases before art lock—taking ideas from clear rulesets to playable, verified prototypes.
 
-- **Intern @ El Zorro Azul** *(Apr 2026 – Present)* — 3D game-ready modeling in **Blender** (optimized topology) and direct **Unity** integration pipeline keeping visual consistency and runtime performance.
+- **Former Intern @ El Zorro Azul** *(Apr 2026 – Nov 2026)* — Created 3D game-ready assets in **Blender** (optimized topology) and integrated them directly into **Unity**, maintaining visual consistency and runtime performance.
 - **Universidad de Mendoza** *(2024 – Est. Feb 2027 · 3rd Year / Thesis)* — Technical Degree in Game Development (Programming Specialization). Prior coursework in Law & Industrial Design at UNCuyo (unambiguous rule systems & spatial ergonomics).
 - **Systems & Modding** — Conflict auditing, SSEEdit, Creation Kit patching, and Papyrus scripting across **1,380 mods** in *Skyrim SE*, **313 mods** in *Minecraft Fabric 1.21.1*, *Valheim*, and *Project Zomboid*.
 
